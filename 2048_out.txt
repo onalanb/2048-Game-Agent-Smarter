@@ -1,0 +1,19 @@
+Random LSA Result:
+Iteration: 5
+Score: 2968
+Path: 192 Steps U,R,D,L,D,L,L,D,R,L,L,L,L,L,D,D,D,D,D,L,U,R,D,D,R,R,U,R,R,D,L,U,U,D,R,D,L,D,D,L,U,U,R,D,U,D,D,D,U,R,R,R,L,U,R,D,L,L,U,L,D,U,R,U,R,L,L,U,R,D,D,R,U,R,L,L,D,U,D,D,D,D,U,L,R,U,D,D,L,U,L,D,L,D,D,R,D,R,U,L,D,R,D,U,R,D,L,D,U,D,L,U,U,L,L,D,L,R,D,U,D,D,D,D,U,R,L,U,L,R,D,U,R,L,D,L,R,U,D,L,U,R,R,D,L,R,D,L,D,D,L,R,U,R,L,U,L,L,R,L,L,L,D,U,R,D,D,L,D,L,U,L,D,R,U,L,D,L,R,U,R,U,U,L,U,R,D,L,D,U,D,L
+Final State 2D Array:
+[2, 256, 8, 2]
+[16, 128, 2, 4]
+[2, 16, 64, 2]
+[64, 2, 16, 4]
+
+Maximizing LSA Result:
+Iteration: 1
+Score: 18628
+Path: 538 Steps R,R,L,R,D,R,L,D,L,R,L,R,R,R,D,D,R,R,U,R,R,R,R,R,R,R,R,R,R,L,D,R,U,R,R,R,R,L,D,R,L,U,R,R,D,R,L,D,R,L,U,R,R,R,R,R,R,D,R,R,U,L,D,D,R,L,R,R,D,D,L,R,U,L,L,L,D,R,R,R,R,R,L,L,D,R,L,U,L,U,L,R,U,R,R,R,U,R,R,R,U,L,D,R,L,D,R,R,D,D,R,R,U,U,R,D,D,R,R,U,R,R,L,D,L,L,D,R,D,R,R,R,R,L,L,L,L,D,R,L,U,L,L,L,D,R,L,D,U,D,L,U,R,R,U,R,L,R,U,R,D,R,D,R,R,D,R,L,D,D,R,D,D,R,R,R,R,R,R,U,R,L,L,D,L,R,U,R,L,R,U,R,D,L,U,R,U,R,R,R,U,L,L,D,L,D,L,R,U,R,R,D,R,R,R,R,R,L,D,R,D,D,D,D,D,R,R,L,D,D,R,R,R,D,R,D,U,L,L,U,R,R,R,D,D,D,L,R,D,R,R,D,R,D,L,D,D,D,R,D,U,L,L,L,D,R,R,R,R,R,R,U,R,L,U,L,U,R,D,R,R,U,D,R,R,D,L,R,L,D,D,R,D,D,R,L,D,L,R,R,D,R,D,R,U,R,D,R,U,R,L,R,U,R,D,L,U,R,U,L,D,D,L,R,U,L,D,R,R,D,D,L,D,R,L,D,R,U,R,R,U,L,D,R,D,R,L,D,U,R,R,U,L,L,R,R,L,R,D,R,U,R,D,D,R,L,D,L,D,D,L,D,D,D,R,D,U,L,L,L,D,R,R,R,R,R,R,U,R,L,U,D,D,R,U,R,D,R,R,R,U,R,U,L,D,R,D,R,R,U,R,R,U,R,U,R,U,R,L,R,U,D,R,L,R,L,L,D,L,U,L,L,L,D,U,R,R,U,L,L,R,R,L,D,L,U,L,D,L,R,U,R,L,R,L,R,D,R,D,R,D,D,R,R,L,D,R,U,R,R,U,L,D,L,L,R,D,R,U,D,R,L,R,L,L,D,U,R,L,D,U,R,L,L,R,R,L,R,U,L,D,L,L,L,U,R,L,D,L,D,L,R,D,L,D,R,L,R,L,U,L,R,U,L,U,R,D,L,U,R,D,R,R,R,R,U,L,D
+Final State 2D Array:
+[0, 0, 0, 0]
+[4, 8, 0, 4]
+[2048, 32, 16, 8]
+[4, 8, 8, 16]
